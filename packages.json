@@ -1,0 +1,78 @@
+[
+    {
+        "package": "grateful",
+        "url": "https://github.com/Pakillo/grateful"
+    },
+    {
+        "package": "ANECAtools",
+        "url": "https://github.com/Pakillo/ANECAtools"
+    },
+    {
+        "package": "FloraIberica",
+        "url": "https://github.com/Pakillo/FloraIberica"
+    }
+    {
+        "package": "DHARMa.helpers",
+        "url": "https://github.com/Pakillo/DHARMa.helpers"
+    },
+    {
+        "package": "CityShadeMapper",
+        "url": "https://github.com/Pakillo/CityShadeMapper"
+    },
+    {
+        "package": "rmdTemplates",
+        "url": "https://github.com/Pakillo/rmdTemplates"
+    }
+    {
+        "package": "template",
+        "url": "https://github.com/Pakillo/template"
+    },
+    {
+        "package": "rSDM",
+        "url": "https://github.com/Pakillo/rSDM"
+    },
+    {
+        "package": "rgis",
+        "url": "https://github.com/Pakillo/rgis"
+    }
+    {
+        "package": "vegetools",
+        "url": "https://github.com/Pakillo/vegetools"
+    },
+    {
+        "package": "safeinstall",
+        "url": "https://github.com/Pakillo/safeinstall"
+    },
+    {
+        "package": "biblioformat",
+        "url": "https://github.com/Pakillo/biblioformat"
+    }
+    {
+        "package": "effect.lndscp",
+        "url": "https://github.com/pedroj/effectiveness_pckg"
+    },
+    {
+        "package": "lump.split.pool.ENM",
+        "url": "https://github.com/Pakillo/lump.split.pool.ENM"
+    },
+    {
+        "package": "proj4shortcut",
+        "url": "https://github.com/jhollist/proj4shortcut"
+    }
+    {
+        "package": "modules",
+        "url": "https://github.com/zoonproject/modules"
+    },
+    {
+        "package": "aire",
+        "url": "https://github.com/SevillaR/aire"
+    },
+    {
+        "package": "labeleR",
+        "url": "https://github.com/EcologyR/labeleR"
+    }
+    {
+        "package": "easyclimate",
+        "url": "https://github.com/VeruGHub/easyclimate"
+    }
+]
