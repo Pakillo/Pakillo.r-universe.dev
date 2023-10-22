@@ -10,7 +10,7 @@
     {
         "package": "FloraIberica",
         "url": "https://github.com/Pakillo/FloraIberica"
-    }
+    },
     {
         "package": "DHARMa.helpers",
         "url": "https://github.com/Pakillo/DHARMa.helpers"
@@ -22,7 +22,7 @@
     {
         "package": "rmdTemplates",
         "url": "https://github.com/Pakillo/rmdTemplates"
-    }
+    },
     {
         "package": "template",
         "url": "https://github.com/Pakillo/template"
@@ -34,7 +34,7 @@
     {
         "package": "rgis",
         "url": "https://github.com/Pakillo/rgis"
-    }
+    },
     {
         "package": "vegetools",
         "url": "https://github.com/Pakillo/vegetools"
@@ -46,7 +46,7 @@
     {
         "package": "biblioformat",
         "url": "https://github.com/Pakillo/biblioformat"
-    }
+    },
     {
         "package": "effect.lndscp",
         "url": "https://github.com/pedroj/effectiveness_pckg"
@@ -58,7 +58,7 @@
     {
         "package": "proj4shortcut",
         "url": "https://github.com/jhollist/proj4shortcut"
-    }
+    },
     {
         "package": "modules",
         "url": "https://github.com/zoonproject/modules"
@@ -70,7 +70,7 @@
     {
         "package": "labeleR",
         "url": "https://github.com/EcologyR/labeleR"
-    }
+    },
     {
         "package": "easyclimate",
         "url": "https://github.com/VeruGHub/easyclimate"
