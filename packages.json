@@ -60,10 +60,6 @@
         "url": "https://github.com/jhollist/proj4shortcut"
     },
     {
-        "package": "ZoonModules",
-        "url": "https://github.com/zoonproject/modules"
-    },
-    {
         "package": "aire",
         "url": "https://github.com/SevillaR/aire"
     },
@@ -74,5 +70,9 @@
     {
         "package": "easyclimate",
         "url": "https://github.com/VeruGHub/easyclimate"
+    }
+    {
+        "package": "network.tools",
+        "url": "https://github.com/Pakillo/network.tools"
     }
 ]
