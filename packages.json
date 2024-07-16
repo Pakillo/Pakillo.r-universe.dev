@@ -70,9 +70,17 @@
     {
         "package": "easyclimate",
         "url": "https://github.com/VeruGHub/easyclimate"
-    }
+    },
     {
         "package": "network.tools",
         "url": "https://github.com/Pakillo/network.tools"
+    },
+    {
+        "package": "BayesianNetworks",
+        "url": "https://github.com/Pakillo/BayesianNetworks"
+    },
+    {
+        "package": "RecruitNetP",
+        "url": "https://github.com/EcologyR/RecruitNetP"
     }
 ]
