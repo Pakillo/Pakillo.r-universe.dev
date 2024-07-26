@@ -82,5 +82,9 @@
     {
         "package": "RecruitNetP",
         "url": "https://github.com/EcologyR/RecruitNetP"
+    },
+    {
+        "package": "plants.around.me",
+        "url": "https://github.com/Pakillo/plants.around.me"
     }
 ]
