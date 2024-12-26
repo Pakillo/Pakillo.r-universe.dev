@@ -76,8 +76,8 @@
         "url": "https://github.com/Pakillo/network.tools"
     },
     {
-        "package": "NetBayes",
-        "url": "https://github.com/Pakillo/NetBayes"
+        "package": "BayesianWebs",
+        "url": "https://github.com/Pakillo/BayesianWebs"
     },
     {
         "package": "RecruitNetP",
@@ -86,5 +86,9 @@
     {
         "package": "plants.around.me",
         "url": "https://github.com/Pakillo/plants.around.me"
+    },
+    {
+        "package": "taxonomy.tools",
+        "url": "https://github.com/Pakillo/taxonomy.tools"
     }
 ]
