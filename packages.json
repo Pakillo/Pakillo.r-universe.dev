@@ -90,5 +90,9 @@
     {
         "package": "taxonomy.tools",
         "url": "https://github.com/Pakillo/taxonomy.tools"
+    },
+    {
+        "package": "BlueCarbon",
+        "url": "https://github.com/EcologyR/BlueCarbon"
     }
 ]
